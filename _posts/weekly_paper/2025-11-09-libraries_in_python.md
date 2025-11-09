@@ -111,7 +111,7 @@ With a clean and consistent API (fit(), predict(), score()), it’s beginner fri
 
 ---
 
-## Conclusion
+## Summary
 
 Together, these libraries transform Python into a complete environment for **data exploration, analysis, and modeling**.  
 **NumPy** enables fast numerical computation, **Pandas** organizes and cleans data,  
