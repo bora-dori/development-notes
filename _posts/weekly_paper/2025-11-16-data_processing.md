@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Essential Data Preprocessing Steps for Clean Analysis"
+title: "Data Preprocessing"
 date: 2025-11-16 +0900
 ---
 # Data Preprocessing: Preparing Data for Reliable Analysis 🧹
