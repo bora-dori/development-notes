@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why We Rarely Use Z-tests and Almost Always Use t-tests"
+title: "Z-test vs t-test"
 date: 2025-11-16 +0900
 ---
 # Z-test vs t-test: Why We Usually Use the t-test 📏
